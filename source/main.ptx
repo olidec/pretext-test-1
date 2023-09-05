@@ -12,6 +12,13 @@
             <p>
                 <m>x^2-4x+4=0</m>
             </p>
+                <exercise>
+                    <webwork>
+                  <statement>
+                  <p><m>1+2=</m><var name="'3'" width="5" /></p>
+                      </statement>
+                    </webwork>
+                  </exercise>
         </chapter>
     </book>
 </pretext>
