@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext>
+    <book>
+        <title>Hello world!</title>
+        <chapter>
+            <title>Getting Started</title>
+            <p>Welcome to PreTeXt!</p>
+            <!-- TODO: find something more to say... -->
+        </chapter>
+        <chapter>
+            <title>My Own Chapter</title>
+            <p>
+                <m>x^2-4x+4=0</m>
+            </p>
+        </chapter>
+    </book>
+</pretext>
