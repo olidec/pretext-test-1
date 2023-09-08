@@ -20,5 +20,38 @@
                     </webwork>
                   </exercise>
         </chapter>
+        <chapter>
+            <title>Test 2</title>
+            <section>
+                <title>The Building Blocks of Algebra</title>
+                <subsection>
+                    <title>Variables</title>
+                    <definition>
+                        <statement>
+                            <p>
+                                A <em>variable</em>  is a placeholder (usually a letter or symbol) that stands for an unknown number.
+                            </p>
+                        </statement>
+                    </definition>
+                    
+                </subsection>
+            </section>
+            <exercises>
+                <exercise>
+                    <statement>
+                        <p>What is the answer to life, the universe and everything?</p>
+                    </statement>
+                    <answer>
+                        <p>42</p>
+                    </answer>
+                    <solution>
+                        <p>42 - Read a book, people.</p>
+                    </solution>
+                </exercise>
+            </exercises>
+            <solutions divisional="solution">
+                
+            </solutions>
+        </chapter>
     </book>
 </pretext>
